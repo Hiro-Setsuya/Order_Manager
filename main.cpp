@@ -130,6 +130,7 @@ int main(){
             orderedPrice[orderedFoodCount++] = desertPrices[order - 1];
         break;
     }
+    
     cout<<"----------------------------------------------"<<endl;
     cout<<"\t     Successfully added"<<endl;
     cout<<"----------------------------------------------"<<endl;
